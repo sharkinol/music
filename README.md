@@ -1,2 +1,1 @@
-# music
-this is the music player sys.
+# HOLLA MI AMIGO THIS IS HOW THE START SHOULD BE ! 
